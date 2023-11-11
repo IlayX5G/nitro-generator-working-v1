@@ -7,5 +7,5 @@ if errorlevel 1 goto errorNoPip
 python -m pip install -r requirements.txt
 cls
 Title Downloading Modules
-echo python speeder.py >> start.bat
+echo python main.py >> start.bat
 start start.bat
