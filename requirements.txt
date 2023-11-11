@@ -3,5 +3,5 @@ pyotp
 psutil
 pypiwin32
 pycryptodome
-pyinstaller>=5.0
+colorma
 PIL-tools
